@@ -38,4 +38,16 @@ In this research, the model training was carried out as many as 50 epochs and th
     <p><b>Figure III: Metrics Evaluation</b></p>
 </div>
 
+## 👾 Visualitation with Gradio
+The model for predicted image generated in this research was integrated with Gradio and resulted in two classes, namely sparse and dense as shown in Figure IV and Figure V.
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/f0f8115d-9732-4e24-8b46-fb31573f488d" width="500">
+    <p><b>Figure IV: Predict as Sparse</b></p>
+</div>
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/e85c56f8-0cb7-4007-a3fb-11b51a2459fe" width="500">
+    <p><b>Figure V: Predict as Dense</b></p>
+</div>
+
 
