@@ -28,6 +28,10 @@ In this research, the model training was carried out as many as 50 epochs and th
     <p><b>Figure I: Training vs Validation Loss</b></p>
 </div>
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/f260f128-b681-40c2-80ec-eacf92b6d0d8" width="500">
+    <p><b>Figure II: Training vs Validation IoU</b></p>
+</div>
 
 
 
