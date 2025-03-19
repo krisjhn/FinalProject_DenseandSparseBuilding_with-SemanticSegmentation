@@ -23,8 +23,10 @@ Before making mask dataset, image dataset should be labelled as masking of image
 
 ## 🔌 Model Performance
 In this research, the model training was carried out as many as 50 epochs and the results were obtained as in Figure I and Figure II.
-Figure I:
-<img src="https://github.com/user-attachments/assets/9eb55797-126b-4fa3-8190-70157458211a" alt="Training vs Val Loss Dense Building" width="200" height="200">
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/9eb55797-126b-4fa3-8190-70157458211a" width="500">
+    <p><b>Figure I: Training vs Validation Loss</b></p>
+</div>
 
 
 
