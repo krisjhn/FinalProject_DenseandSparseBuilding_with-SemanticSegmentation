@@ -22,7 +22,7 @@ Before making mask dataset, image dataset should be labelled as masking of image
 
 
 ## 🔌 Model Performance
-In this research, the model training was carried out as many as 50 epochs and the results were obtained as in Figure I and Figure II.
+In this research, the model training was carried out as many as 50 epochs and the results were obtained as in Figure I - Figure III.
 <div align="center">
     <img src="https://github.com/user-attachments/assets/9eb55797-126b-4fa3-8190-70157458211a" width="500">
     <p><b>Figure I: Training vs Validation Loss</b></p>
@@ -33,5 +33,9 @@ In this research, the model training was carried out as many as 50 epochs and th
     <p><b>Figure II: Training vs Validation IoU</b></p>
 </div>
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/2b3260b0-88be-4b79-8bcc-08bc8557625b" width="500">
+    <p><b>Figure III: Metrics Evaluation</b></p>
+</div>
 
 
